@@ -6,9 +6,9 @@ A 3D Global Descriptor For Loop Closure Detection
 
 - We tested our descriptor on KITTI sequences 00, 02, 05, 06, 07 and 08:
 
-<p align="center"><img width="800" alt="image" src="https://github.com/SlamCabbage/NDTMC/assets/95751923/cc28fc43-77ad-420b-b0b2-01be49b61632">
+<p align="center"><img width="800" alt="image" src="script/000205.png">
 
-<p align="center"><img width="800" alt="image" src="https://github.com/SlamCabbage/NDTMC/assets/95751923/7882ad06-e115-44cd-bd69-61b15a8fc502">
+<p align="center"><img width="800" alt="image" src="script/060708.png">
 
 # How to use
 

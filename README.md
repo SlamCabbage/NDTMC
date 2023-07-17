@@ -10,6 +10,10 @@ A 3D Global Descriptor For Loop Closure Detection
 
 <p align="center"><img width="800" alt="image" src="script/060708.png">
 
+- F1 score and extended precision results on the KITTI dataset:
+
+<p align="center"><img width="800" alt="image" src="script/Table2.png">
+
 # How to use
 
 1. Create GT of LCD

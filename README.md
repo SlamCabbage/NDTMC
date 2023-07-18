@@ -1,6 +1,8 @@
 # NDTMC
 A 3D Global Descriptor For Loop Closure Detection
 
+You can find the paper here [NDT-Map-Code](https://arxiv.org/abs/2307.08221).
+
 # Example
 - We implemented the SLAM package of NDTMC and LIOSAM integration, which can be found at [NDTMC-LIO-SAM](https://github.com/SlamCabbage/NDTMC-LIO-SAM).
 
@@ -58,8 +60,13 @@ At this point, you can get the matching result of each frame, and you can proces
 
 # Cite NDTMC
 ```
-@inproceedings { 
-    comming soon.
+@misc{liao2023ndtmapcode,
+      title={NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM}, 
+      author={Lizhou Liao and Li Sun and Xinhui Bai and Zhenxing You and Hongyuan Yuan and Chunyun Fu},
+      year={2023},
+      eprint={2307.08221},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
 ```
 

@@ -1,5 +1,5 @@
-# NDTMC
-A 3D Global Descriptor For Loop Closure Detection
+# NDT-Map-Code
+NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM
 
 You can find the paper here [NDT-Map-Code](https://arxiv.org/abs/2307.08221).
 

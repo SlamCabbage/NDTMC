@@ -3,6 +3,9 @@ NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lid
 
 You can find the paper here [NDT-Map-Code](https://arxiv.org/abs/2307.08221).
 
+# Demo
+[![NDT-Map-Code](https://i.ytimg.com/vi/xCtWRlEKCfk/maxresdefault.jpg)](https://www.youtube.com/watch?v=xCtWRlEKCfk "NDT-Map-Code")
+
 # Example
 - We implemented the SLAM package of NDTMC and LIOSAM integration, which can be found at [NDTMC-LIO-SAM](https://github.com/SlamCabbage/NDTMC-LIO-SAM).
 

@@ -3,13 +3,13 @@ NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lid
 
 You can find the paper here [NDT-Map-Code](https://arxiv.org/abs/2307.08221).
 
-# News <a name="news"></a>
+## News <a name="news"></a>
 - `[2024/2]`:fire: NDT-Map-Code is accepted by IROS 2024.
 
-# Demo
+## Demo
 [![NDT-Map-Code](https://i.ytimg.com/vi/xCtWRlEKCfk/maxresdefault.jpg)](https://www.youtube.com/watch?v=xCtWRlEKCfk "NDT-Map-Code")
 
-# Example
+## Example
 - We implemented the SLAM package of NDTMC and LIOSAM integration, which can be found at [NDTMC-LIO-SAM](https://github.com/SlamCabbage/NDTMC-LIO-SAM).
 
 - We tested our descriptor on KITTI sequences 00, 02, 05, 06, 07 and 08:
@@ -22,7 +22,7 @@ You can find the paper here [NDT-Map-Code](https://arxiv.org/abs/2307.08221).
 
 <p align="center"><img width="800" alt="image" src="script/Table2.png">
 
-# How to use
+## How to use
 
 1. Create GT of LCD
 
@@ -64,7 +64,7 @@ You can find the paper here [NDT-Map-Code](https://arxiv.org/abs/2307.08221).
 
 At this point, you can get the matching result of each frame, and you can process it yourself to get more result information, such as: precision-recall curve, F1 Score and Extended Precision.
 
-# Cite NDTMC
+## Cite NDTMC
 ```
 @misc{liao2023ndtmapcode,
       title={NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM}, 

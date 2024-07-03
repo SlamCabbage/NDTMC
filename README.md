@@ -1,9 +1,10 @@
-**Good news, our paper was accepted by IROS 2024.**
-
 # NDT-Map-Code
 NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM
 
 You can find the paper here [NDT-Map-Code](https://arxiv.org/abs/2307.08221).
+
+# News <a name="news"></a>
+- `[2024/2]`:fire: NDT-Map-Code is accepted by IROS 2024.
 
 # Demo
 [![NDT-Map-Code](https://i.ytimg.com/vi/xCtWRlEKCfk/maxresdefault.jpg)](https://www.youtube.com/watch?v=xCtWRlEKCfk "NDT-Map-Code")
